@@ -1,6 +1,6 @@
-#Git&Github HW1
+# Git&Github HW1
 
-##Zhang Bozhi
+## Zhang Bozhi
 **Hobies:**
 1. Swimming
 2. Video editing
