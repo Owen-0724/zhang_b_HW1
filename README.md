@@ -14,3 +14,14 @@
 
 ___
 
+## Owen
+**Hobies:**
+1. Card game
+2. Board game
+3. Reading
+![board game](img/board_game.jpg)
+
+**Favorite movies:**
+1. Captain America: The First Avenger
+2. Iron Man 2
+3. Iron Sky
